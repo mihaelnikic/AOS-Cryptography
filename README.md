@@ -13,7 +13,7 @@
 
 Datum: **03.05.2017.**<br>
 
-##Opis projekta:
+## Opis projekta:
 * Program kriptira/dekriptira datoteke pomoću simetričnog algoritma (AES) i asimetričnog algoritma (RSA), stvara njihov sažetak pomoću algoritma sažimanja (SHA-2), i stvara digitalnu omotnicu i digitalni pečat.
 
 * Detaljnije na <a href="http://www.zemris.fer.hr/predmeti/os2/">OS2</a>
